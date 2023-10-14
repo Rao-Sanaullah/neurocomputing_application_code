@@ -11,4 +11,10 @@ SPIKE VISION APPROACH FOR GENERATING LARGE-SCALE SPIKING DATASET:
 
 * This 3D plot offers a visual representation of detected humans along with their corresponding spike trains.
 * The right image illustrates the data of the first 25 objects along with 0-75 objects,
-* And the right 3d plot provides an overview of the data from the first 100 detected objects.
+* And the right 3D plot provides an overview of the data from the first 100 detected objects.
+
+The detailed presentation for this project is available at: https://rao-sanaullah.github.io/neurocomputing_application/
+
+For any help, please contact
+
+Sanaullah (sanaullah@hsbi.de)
